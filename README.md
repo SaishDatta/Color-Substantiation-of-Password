@@ -1,3 +1,7 @@
+# Abstract
+Access to computer systems is most often based on the use of alphanumeric passwords. However, users have difficulty remembering a password that is long and random-appearing. Instead, they create short, simple, and insecure passwords. Graphical passwords have been designed to try to make passwords more memorable and easier for people to use and, therefore, more secure. Using a graphical password, users click on images rather than type alphanumeric characters. We have designed a new and more secure graphical password system. We describe its security characteristics, and the empirical study we carried out comparing with alphanumeric passwords. In the empirical study participants learned either an alphanumeric or graphical password and subsequently carried out l trials to input their passwords over a period. The results show that the graphical group took longer and made more errors in learning the password, but that the difference was largely a consequence of just a few graphical participants who had difficulty learning to use graphical passwords. In the longitudinal trials the two groups performed similarly on memory of their password, but the graphical group took more time to input a password.
+
+# Description
 Instead of just words we propose a system in which authentication is done using colors
 and numbers. Users can give values from 1 to 5 for the given 5 colors.this
  makes the authentication method risk free
