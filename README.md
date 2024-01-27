@@ -26,3 +26,5 @@ the first letter of session password is 1st row and 3rd colomn intersecting elem
 The same method is followed for other pairs of colors. So the password is “3573”. For
 every login,both the number grid and the color grid get randomizes so the session
 password changes for every session.
+
+# Tech stack : HTML, JSP, SQL
